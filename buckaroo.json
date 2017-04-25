@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-randombit-botan",
+  "dependencies": {
+    "randombit/botan": "2.0.1",
+    "google/gtest": "1.8.0"
+  }
+}
